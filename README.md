@@ -1,9 +1,9 @@
 ## `name_cleanup.csv`
 This CSV file contains cleaned-up data from the Villo! API data.
 
-The "name" column is almost as reported by the API: I removed the number prefix according to the regex `'^\d+ *- *'`, and parentheses according to the regex `' *\([^)]*) *'`.
+The "name" column is almost as reported by the API: I removed the number prefix according to the regex `^\d+ *- *`, and parentheses according to the regex ` *\([^)]*) *`.
 
-The `fr_norm` and `nl_norm` column are a first clean-up of the `name` column.
+The `fr_norm` and `nl_norm` columns are a first clean-up of the `name` column.
 It simply consists of properly capitalized names with accents.
 When only a single name exists, it is put in the `fr_norm` column and the `nl_norm` column is empty.
 

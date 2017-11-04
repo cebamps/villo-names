@@ -57,9 +57,9 @@ number,name,fr_norm,fr_shouldbe,nl_norm,nl_shouldbe,fr_note,nl_note,note
 60,"ST-LAZARE/ST LAZARUS",St-Lazare,Saint-Lazare,"St Lazarus",Sint-Lazarus,spelling,spelling,
 61,"MAELBEEK / MAALBEEK",Maelbeek,,Maalbeek,,,,
 62,"CORTENBERGH / KORTENBERG",Cortenbergh,,Kortenberg,,,,
-63,"JULES CESAR","Jules César",,,"Julius Caesar",,missing,
+63,"JULES CESAR","Jules César",,,"Julius Caesar",,missing,nl:MIVB
 64,"VETERINAIRES / VEEARTSEN",Vétérinaires,,Veeartsen,,,,
-65,"PARVIS DE ST GILLES","Parvis de St Gilles","Parvis de Saint-Gilles",,Sint-Gillisvoorplein,spelling,missing,
+65,"PARVIS DE ST GILLES","Parvis de St Gilles","Parvis de Saint-Gilles",,Sint-Gillisvoorplein,spelling,missing,nl:MIVB
 66,SCHUMAN,Schuman,,,,,,
 67,"PARC CINQUANTENAIRE / JUBELPARK","Parc Cinquantenaire",,Jubelpark,,,,
 68,"JEAN REY","Jean Rey",,,,,,
@@ -93,7 +93,7 @@ number,name,fr_norm,fr_shouldbe,nl_norm,nl_shouldbe,fr_note,nl_note,note
 96,"HOTEL PRESIDENT/PRESIDENT HOTEL","Hôtel President",,"President Hotel",,,,
 97,KARREVELD,Karreveld,,,,,,
 98,CIMETIERE/KERKHOF,Cimetière,,Kerkhof,,,,
-99,JUBILE,Jubilé,,,Jubelfeest,,missing,
+99,JUBILE,Jubilé,,,Jubelfeest,,missing,nl:MIVB
 100,"GARE DE LUXEMBOURG/LUXEMBURGSTATION","Gare de Luxembourg",,Luxemburgstation,,,,
 101,ZELLIK,Zellik,,Zellik,,,,
 102,MUSEUM/MUSEUM,Museum,,,,,,
@@ -115,21 +115,21 @@ number,name,fr_norm,fr_shouldbe,nl_norm,nl_shouldbe,fr_note,nl_note,note
 119,PAQUOT/PACQUOT,Paquot,,Pacquot,Paquot,,spelling,
 120,BLYCKAERTS,Blyckaerts,,,,,,
 121,"ETANGS / VIJVERS",Étangs,,Vijvers,,,,
-122,"GARE D'ETTERBEEK","Gare d'Etterbeek",,,"Etterbeek Station",,missing,
+122,"GARE D'ETTERBEEK","Gare d'Etterbeek",,,"Etterbeek Station",,missing,nl:MIVB
 123,BASCULE,Bascule,,,,,,
 124,"CHARLES GRAUX","Charles Graux",,,,,,
 125,"GEORGES BRUGMANN","Georges Brugmann",,,,,,
 126,FABRY,Fabry,,,,,,
 127,GRAY/GRAY,Gray,,,,,,
-128,"MUSEE DU TRAM","Musée du Tram",,,Trammuseum,,missing,
-130,"ROND POINT DU SOUVERAIN","Rond point du Souverain","Rond-point du Souverain",,Vorstrondpunt,spelling,missing,
-131,"JARDIN MASSART","Jardin Massart",,,Massarttuin,,missing,
-132,"DEUX CHAUSSEES","Deux Chaussées",,,Tweesteenwegen,,missing,
+128,"MUSEE DU TRAM","Musée du Tram",,,Trammuseum,,missing,nl:MIVB
+130,"ROND POINT DU SOUVERAIN","Rond point du Souverain","Rond-point du Souverain",,Vorstrondpunt,spelling,missing,nl:MIVB
+131,"JARDIN MASSART","Jardin Massart",,,Massarttuin,,missing,nl:MIVB
+132,"DEUX CHAUSSEES","Deux Chaussées",,,Tweesteenwegen,,missing,nl:MIVB
 133,CHÂTEAU/KASTEEL,Château,,Kasteel,,,,
 134,"PLACE DE BASTOGNE/BASTENAKEN","Place de Bastogne",Bastogne,Bastenaken,,encoding,,"the address field calls this station Bastogne / Bastenaken"
 135,"PARC LACROIX/LACROIX PARK","Parc Lacroix",,"Lacroix park",,,,
 136,PAVILLON/PAVILJOEN,Pavillon,,Paviljoen,,,,
-137,"MAISON COMMUNALE DE SCHAERBEEK","Maison communale de Schaerbeek",,,"Schaarbeek gemeentehuis",,missing,
+137,"MAISON COMMUNALE DE SCHAERBEEK","Maison communale de Schaerbeek",,,"Schaarbeek gemeentehuis",,missing,"nl:own translation"
 138,HOUFFALIZE,Houffalize,,,,,,
 139,LIEDTS,Liedts,,,,,,
 140,AZALEES/AZALEA,Azalées,,Azalea,,,,
@@ -145,7 +145,7 @@ number,name,fr_norm,fr_shouldbe,nl_norm,nl_shouldbe,fr_note,nl_note,note
 150,MEISER/MEISER,Meiser,,,,,,
 151,"LOUVAIN 488-494/LEUVEN 488-494","Louvain 488-494",Louvain,"Leuven 488-494",Leuven,encoding,encoding,"the address field calls this station Louvain / Leuven"
 152,"PLACE DAILLY/DAILLYPLEIN","Place Dailly",,Daillyplein,,,,
-153,"SQUARE ARMAND STEURS","Square Armand Steurs",,,"Armand Steurssquare",,missing,
+153,"SQUARE ARMAND STEURS","Square Armand Steurs",,,"Armand Steurssquare",,missing,nl:streetname
 154,PLASKY/PLASKY,Plasky,,,,,,
 156,"JAMBLINE DE MEUX/JAMBLINNE DE MEUX","Jambline de Meux","Jamblinne de Meux","Jamblinne de Meux",,spelling,,
 157,HELIOTROPES/HELIOTROPEN,Héliotropes,,Heliotropen,,,,
@@ -177,12 +177,12 @@ number,name,fr_norm,fr_shouldbe,nl_norm,nl_shouldbe,fr_note,nl_note,note
 185,"PERE DE DEKEN/PATER DE DEKEN","Père de Deken",,"Pater de Deken",,,,
 186,GENOT,Genot,,,,,,
 187,ARSENAL/ARSENAAL,Arsenal,,Arsenaal,,,,
-188,OSSEGHEM,Osseghem,,,Ossegem,,missing,
+188,OSSEGHEM,Osseghem,,,Ossegem,,missing,nl:MIVB
 189,"PLACE VAN MEYEL/VAN MEYELPLEIN","Place Van Meyel",,"Van Meyelplein",,,,
 190,TERDELT,Terdelt,,,,,,
 191,ARTAN,Artan,,,,,,
-192,"AUBERGE DE JEUNESSE","Auberge de jeunesse",,,Jeugdherberg,,missing,
-193,"GARE DE L'OUEST","Gare de l'Ouest",,,Weststation,,missing,
+192,"AUBERGE DE JEUNESSE","Auberge de jeunesse",,,Jeugdherberg,,missing,"nl:own translation"
+193,"GARE DE L'OUEST","Gare de l'Ouest",,,Weststation,,missing,nl:MIVB
 194,STUYVENBERG,Stuyvenberg,Stuyvenbergh,,,spelling,,
 195,"WESTLAND SHOPPING","Westland Shopping",,,,,,
 196,"PRINCE DE LIEGE / PRINS VAN LUIK","Prince de Liège",,"Prins van Luik",,,,
@@ -192,7 +192,7 @@ number,name,fr_norm,fr_shouldbe,nl_norm,nl_shouldbe,fr_note,nl_note,note
 200,"VETERANS COLONIAUX / KOLONIALE VETERANEN","Vétérans Coloniaux",,"Koloniale Veteranen",,,,
 201,PETERBOS,Peterbos,,,,,,
 202,AUMALE,Aumale,,,,,,
-203,DEMOSTHENE,Démosthène,,,Demosthenes,,missing,
+203,DEMOSTHENE,Démosthène,,,Demosthenes,,missing,nl:streetname
 204,DUPUIS,Dupuis,,,,,,
 205,"DE LINDE","De Linde",,,,,,
 206,"SAINT-GUIDON / SINT GUIDO",Saint-Guidon,,"Sint Guido",,,,
@@ -200,7 +200,7 @@ number,name,fr_norm,fr_shouldbe,nl_norm,nl_shouldbe,fr_note,nl_note,note
 208,MELBA,Melba,,,,,,
 209,"VEEWEYDE / VEEWEIDE",Veeweyde,,Veeweide,,,,
 210,"MARIUS RENARD","Marius Renard",,,,,,
-211,"METRO CERIA","Métro CERIA",,,"Metro COOVI",,missing,"assuming missing nl rather than inaccurate ""Metro CERIA"""
+211,"METRO CERIA","Métro CERIA",,,"Metro COOVI",,missing,"nl:own translation, assuming missing rather than inaccurate ""Metro CERIA"""
 212,"THEO LAMBERT","Théo Lambert",,,,,,
 213,"LA ROUE / HET RAD","La Roue",,"Het Rad",,,,
 214,"CAMPUS CERIA / CAMPUS VAN CERIA","Campus CERIA",,"Campus van CERIA",,,,
@@ -225,7 +225,7 @@ number,name,fr_norm,fr_shouldbe,nl_norm,nl_shouldbe,fr_note,nl_note,note
 234,"ST DENIS / ST DENIJS","St Denis",Saint-Denis,"St Denijs",Sint-Denijs,spelling,spelling,
 235,"FOREST NATIONAL / VORST NATIONAAL","Forest National",,"Vorst Nationaal",,,,
 236,"MAISON COMMUNALE DE FOREST/VORST GEMEENTEHUIS","Maison communale de Forest",,"Vorst Gemeentehuis",,,,
-237,"PARVIS ST ANTOINE","Parvis St Antoine","Parvis Saint-Antoine",,Sint-Antoniusvoorplein,spelling,missing,
+237,"PARVIS ST ANTOINE","Parvis St Antoine","Parvis Saint-Antoine",,Sint-Antoniusvoorplein,spelling,missing,nl:streetname
 238,"UNION SAINT-GILLOISE / SINT-GILLIS UNIE","Union Saint-Gilloise",,"Sint-Gillis Unie",,,,
 239,DARWIN,Darwin,,,,,,
 240,VANDERKINDERE,Vanderkindere,,,,,,
@@ -238,7 +238,7 @@ number,name,fr_norm,fr_shouldbe,nl_norm,nl_shouldbe,fr_note,nl_note,note
 247,STALLE,Stalle,,,,,,
 248,"PRINCE DE LIGNE / PRINCE LIJN","Prince de Ligne",,"Prince Lijn","Prins de Ligne",,spelling,
 249,SAINT-JOB/SINT-JOB,Saint-Job,,Sint-Job,,,,
-250,SAINTE-ELISABETH,Sainte-Elisabeth,,,Sint-Elisabeth,,missing,
+250,SAINTE-ELISABETH,Sainte-Elisabeth,,,Sint-Elisabeth,,missing,"nl:hospital name"
 251,PAOLA,Paola,,,,,,
 252,BEMPT,Bempt,,,,,,
 253,"REINE FABIOLA / KONINGIN FABIOLA","Reine Fabiola",,"Koningin Fabiola",,,,
@@ -246,7 +246,7 @@ number,name,fr_norm,fr_shouldbe,nl_norm,nl_shouldbe,fr_note,nl_note,note
 255,"SACRE-COEUR DE/HEILIGE HART VAN GANSHOREN","Sacré-Coeur de Ganshoren","Sacré-Cœur de Ganshoren","Heilige Hart van Ganshoren","Heilig Hart van Ganshoren",spelling,spelling,
 256,"VAN OVERBEKE","Van Overbeke",,,,,,
 257,"PL MARGHERITE D'AUTRICHE / MARGARETHA VAN OO","Pl Margherite d'Autriche","Place Marguerite d'Autriche","Margaretha van Oo","Margaretha van Oostenrijkplein",spelling,spelling,
-258,LIBERTE,Liberté,,,Vrijheid,,missing,
+258,LIBERTE,Liberté,,,Vrijheid,,missing,nl:MIVB
 259,NOVILLE,Noville,,,,,,
 260,TRITON,Triton,,,,,,
 261,CONSCIENCE,Conscience,,,,,,
@@ -257,11 +257,11 @@ number,name,fr_norm,fr_shouldbe,nl_norm,nl_shouldbe,fr_note,nl_note,note
 266,"GARE BORDET STATION","Gare Bordet",,"Bordet Station",,,,
 267,GENEVE,Genève,,,,,,
 268,DUNANT,Dunant,,,,,,
-269,CICERON,Cicéron,,,Cicero,,missing,
+269,CICERON,Cicéron,,,Cicero,,missing,nl:MIVB
 270,"DE PADUWA","De Paduwa",,,,,,
 271,DUBOIS,Dubois,,,,,,
 272,SCHEUTBOS,Scheutbos,,,,,,
-273,TAMARIS,Tamaris,,,Tamarisken,,missing,
+273,TAMARIS,Tamaris,,,Tamarisken,,missing,nl:MIVB
 274,CORHAY,Corhay,,,,,,
 275,VERSAILLES,Versailles,,,,,,
 276,"CROIX DE GUERRES/OORLOGSKRUISEN","Croix de Guerres","Croix de Guerre",Oorlogskruisen,,spelling,,
@@ -283,20 +283,20 @@ number,name,fr_norm,fr_shouldbe,nl_norm,nl_shouldbe,fr_note,nl_note,note
 292,RITTWEGER,Rittweger,,,,,,
 293,KEYM,Keym,,,,,,
 294,WIENER,Wiener,,,,,,
-295,"COIN DU BALAI","Coin du Balai",,,Bezemhoek,,missing,
-296,"GARE DE BOITSFORT","Gare de Boitsfort",,,"Bosvoorde Station",,missing,
+295,"COIN DU BALAI","Coin du Balai",,,Bezemhoek,,missing,"nl:own translation"
+296,"GARE DE BOITSFORT","Gare de Boitsfort",,,"Bosvoorde Station",,missing,nl:MIVB
 297,"TEN REUKEN","Ten Reuken",,,,,,
-298,"HALL DES SPORTS","Hall des Sports",,,Sporthal,,missing,
-299,SAINT-ADRIEN,Saint-Adrien,,,Sint-Adrianus,,missing,
+298,"HALL DES SPORTS","Hall des Sports",,,Sporthal,,missing,"nl:own translation"
+299,SAINT-ADRIEN,Saint-Adrien,,,Sint-Adrianus,,missing,"nl:church name"
 300,"GARE DE BOONDAELSTATION","Gare de Boondael",,Boondaelstation,"Boondaal Station",,spelling,
 301,MARIE-JOSE,Marie-José,,,,,,
-303,"VIEUX TILLEUL","Vieux Tilleul",,,"Oude Linde",,missing,
+303,"VIEUX TILLEUL","Vieux Tilleul",,,"Oude Linde",,missing,nl:streetname
 304,ARAUCARIA,Araucaria,,,,,,
 305,"PETER BENOIT","Peter Benoit",,,,,,
 306,HEMBEEK,Hembeek,,,,,,
 307,"KAREL BOGAERT","Karel Bogaert",,,,,,
 308,TIVOLI,Tivoli,,,,,,
-309,"SQUARE DU CENTENAIRE","Square du Centenaire",,,Eeuwfeestsquare,,missing,
+309,"SQUARE DU CENTENAIRE","Square du Centenaire",,,Eeuwfeestsquare,,missing,nl:streetname
 310,"SAINT-VINCENT / SINT-VINCENTIUS",Saint-Vincent,,Sint-Vincentius,,,,
 311,DELTA,Delta,,,,,,
 312,"CENTRE CULTUREL / CULTUREEL CENTRUM","Centre culturel",,"Cultureel centrum",,,,
@@ -305,10 +305,10 @@ number,name,fr_norm,fr_shouldbe,nl_norm,nl_shouldbe,fr_note,nl_note,note
 315,"SACRE COEUR AUDERGHEM/HEILIGE HART OUDERGHEM","Sacré Coeur Auderghem","Sacré-Cœur Auderghem","Heilige Hart Ouderghem","Heilig Hart Oudergem",spelling,spelling,
 317,GEYSKENS,Geyskens,,,,,,
 318,"CARDINAL MERCIER / KARDINAAL MERCIER","Cardinal Mercier",,"Kardinaal Mercier",,,,
-319,"ANCIENNE BARRIERE","Ancienne Barrière",,,"Oude Afspanning",,missing,
+319,"ANCIENNE BARRIERE","Ancienne Barrière",,,"Oude Afspanning",,missing,nl:MIVB
 321,"SACRE-CŒUR DE/HEILIGE HART VAN JETTE","Sacré-Cœur de Jette",,"Heilige Hart van Jette","Heilig Hart van Jette",,spelling,
 322,"PARC DU ROI BAUDOUIN / BOUDEWIJNPARK","Parc du Roi Baudouin","Parc Roi Baudouin",Boudewijnpark,"Koning Boudewijnpark",inaccuracy,inaccuracy,
-323,CARENE,Carène,,,Carina,,missing,
+323,CARENE,Carène,,,Carina,,missing,nl:MIVB
 324,"THOMAS BALIS","Thomas Balis",,,,,,
 325,HANKAR,Hankar,,,,,,
 326,ADEPS,ADEPS,,,,,,
@@ -325,12 +325,12 @@ number,name,fr_norm,fr_shouldbe,nl_norm,nl_shouldbe,fr_note,nl_note,note
 338,UCL,UCL,,UCL,,,,
 339,MEUDON,Meudon,,,,,,
 340,TOMBERG,Tomberg,,Tomberg,,,,
-342,"MAISON COMMUNALE DE BERCHEM ST AGHATE","Maison Communale de Berchem St Aghate","Maison Communale de Berchem-Sainte-Agathe",,"Sint-Agatha-Berchem gemeentehuis",spelling,missing,
+342,"MAISON COMMUNALE DE BERCHEM ST AGHATE","Maison Communale de Berchem St Aghate","Maison Communale de Berchem-Sainte-Agathe",,"Sint-Agatha-Berchem gemeentehuis",spelling,missing,"nl:own translation"
 343,VANDENDRIESCH,Vandendriesch,,,,,,
-344,BETHLEEM,Bethléem,,,Bethlehem,,missing,
-345,"3 TILLEULS","3 Tilleuls",,,"3 Linden",,missing,
-346,RECHERCHE,Recherche,,,Research,,missing,
-347,ERASME,Erasme,,,Erasmus,,missing,
+344,BETHLEEM,Bethléem,,,Bethlehem,,missing,nl:MIVB
+345,"3 TILLEULS","3 Tilleuls",,,"3 Linden",,missing,"nl:own translation (after ""Drie Linden"")"
+346,RECHERCHE,Recherche,,,Research,,missing,nl:streetname
+347,ERASME,Érasme,,,Erasmus,,missing,nl:MIVB
 348,HANSEN-SOULIE,Hansen-Soulie,,,,,,
 349,FONSNY,Fonsny,,,,,,
 350,VERHEYLEWEGHEN,Verheyleweghen,,,,,,
@@ -339,8 +339,8 @@ number,name,fr_norm,fr_shouldbe,nl_norm,nl_shouldbe,fr_note,nl_note,note
 353,BEAULIEU,Beaulieu,,,,,,
 354,"TRIOMPHE / TRIOMF",Triomphe,,Triomf,,,,
 355,PARNASSE,Parnasse,,,,,,
-356,"CENTRE SPORTIF","Centre sportif",,,Sportcentrum,,missing,
-357,AVIATION,Aviation,,,Luchtvaart,,missing,
+356,"CENTRE SPORTIF","Centre sportif",,,Sportcentrum,,missing,"nl:own translation"
+357,AVIATION,Aviation,,,Luchtvaart,,missing,nl:MIVB
 358,MADOUX,Madoux,,,,,,
 359,JCDECAUX,JCDecaux,,,,,,"not an error, it's in front of the JCDecaux offices"
 360,STOCKEL/STOKKEL,Stockel,,Stokkel,,,,

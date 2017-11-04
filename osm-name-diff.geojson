@@ -819,6 +819,22 @@
   {
    "geometry": {
     "coordinates": [
+     4.26549659940624,
+     50.8149716947945
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 347,
+    "_osm_id": 4954691063,
+    "tag_from": "Erasme",
+    "tag_to": "\u00c9rasme"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      4.38400149938974,
      50.8140069947945
     ],

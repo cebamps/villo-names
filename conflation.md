@@ -53,6 +53,7 @@ ref | osm_id | from | to
 [319](http://en.villo.be/All-stations/Map-stations/(id)/319) | [3237981117](https://openstreetmap.org/node/3237981117) | Ancienne Barrière - Oude Afspanningsplein | Ancienne Barrière
 [335](http://en.villo.be/All-stations/Map-stations/(id)/335) | [3905108609](https://openstreetmap.org/node/3905108609) | Station n° 335 THIRY - BD DE LA WOLUWE DVT 100 | Thiry
 [344](http://en.villo.be/All-stations/Map-stations/(id)/344) | [4696397690](https://openstreetmap.org/node/4696397690) | Bethleem - Place Bethleem | Bethléem
+[347](http://en.villo.be/All-stations/Map-stations/(id)/347) | [4954691063](https://openstreetmap.org/node/4954691063) | Erasme | Érasme
 [351](http://en.villo.be/All-stations/Map-stations/(id)/351) | [4947668227](https://openstreetmap.org/node/4947668227) |  | ULB
 [353](http://en.villo.be/All-stations/Map-stations/(id)/353) | [4171675245](https://openstreetmap.org/node/4171675245) | Beaulieu-Rue Jules Cockx - Beaulieu Jules Cockxstraat | Beaulieu
 [356](http://en.villo.be/All-stations/Map-stations/(id)/356) | [3905108608](https://openstreetmap.org/node/3905108608) | Station n° 356 CENTRE SPORTIF - AVENUE JULES DU JARDIN FACE AU N°45 (ROND POINT DU TIBET) | Centre sportif

@@ -30,6 +30,8 @@ Each file shows the difference in one tag (`name`, `name:fr` or `name:nl`) from 
 
 To ease reviewing, the file for `name` tag changes omits corrections in formatting from `French / Dutch` to `French - Dutch`.
 
+The data is also summarized in the file (`conflation.md`)[conflation.md].
+
 ### GeoJSON.io links
 
  * [`osm-name-diff.geojson`](http://geojson.io/#id=github:cedb12/villo-names/blob/master/osm-name-diff.geojson)

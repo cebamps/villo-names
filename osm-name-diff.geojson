@@ -563,6 +563,22 @@
   {
    "geometry": {
     "coordinates": [
+     4.37798279939058,
+     50.8542911947934
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 153,
+    "_osm_id": 5038450966,
+    "tag_from": "Villo Station 153",
+    "tag_to": "Square Armand Steurs - Armand Steurssquare"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      4.4086968993863,
      50.8523807947934
     ],

@@ -37,6 +37,7 @@ ref | osm_id | from | to
 [147](http://en.villo.be/All-stations/Map-stations/(id)/147) | [1214500793](https://openstreetmap.org/node/1214500793) | Émile Max Lycée - Lyceum Émile Max | Émile Max lycée - Lyceum Émile Max
 [151](http://en.villo.be/All-stations/Map-stations/(id)/151) | [1494231097](https://openstreetmap.org/node/1494231097) | Louvain / Leuven | Louvain 488-494 - Leuven 488-494
 [152](http://en.villo.be/All-stations/Map-stations/(id)/152) | [1155270044](https://openstreetmap.org/node/1155270044) | Dailly | Place Dailly - Daillyplein
+[153](http://en.villo.be/All-stations/Map-stations/(id)/153) | [5038450966](https://openstreetmap.org/node/5038450966) | Villo Station 153 | Square Armand Steurs - Armand Steurssquare
 [176](http://en.villo.be/All-stations/Map-stations/(id)/176) | [875533066](https://openstreetmap.org/node/875533066) | COLONEL BOURG/KOLONEL BOURG - RUE COLONEL BOURG/ KOLONEL BOURGSTRAAT 104 | Colonel Bourg - Kolonel Bourg
 [189](http://en.villo.be/All-stations/Map-stations/(id)/189) | [1824770592](https://openstreetmap.org/node/1824770592) | Van Meyel | Place Van Meyel - Van Meyelplein
 [203](http://en.villo.be/All-stations/Map-stations/(id)/203) | [4954837448](https://openstreetmap.org/node/4954837448) | Démosthène | Démosthène - Demosthenes
@@ -109,6 +110,7 @@ ref | osm_id | from | to
 [147](http://en.villo.be/All-stations/Map-stations/(id)/147) | [1214500793](https://openstreetmap.org/node/1214500793) | Émile Max Lycée | Émile Max lycée
 [151](http://en.villo.be/All-stations/Map-stations/(id)/151) | [1494231097](https://openstreetmap.org/node/1494231097) |  | Louvain 488-494
 [152](http://en.villo.be/All-stations/Map-stations/(id)/152) | [1155270044](https://openstreetmap.org/node/1155270044) |  | Place Dailly
+[153](http://en.villo.be/All-stations/Map-stations/(id)/153) | [5038450966](https://openstreetmap.org/node/5038450966) |  | Square Armand Steurs
 [163](http://en.villo.be/All-stations/Map-stations/(id)/163) | [843356612](https://openstreetmap.org/node/843356612) | Chazal | 
 [173](http://en.villo.be/All-stations/Map-stations/(id)/173) | [843356611](https://openstreetmap.org/node/843356611) | Bichon | 
 [176](http://en.villo.be/All-stations/Map-stations/(id)/176) | [875533066](https://openstreetmap.org/node/875533066) | COLONEL BOURG | Colonel Bourg
@@ -186,6 +188,7 @@ ref | osm_id | from | to
 [146](http://en.villo.be/All-stations/Map-stations/(id)/146) | [1483481247](https://openstreetmap.org/node/1483481247) |  | Leopold III
 [151](http://en.villo.be/All-stations/Map-stations/(id)/151) | [1494231097](https://openstreetmap.org/node/1494231097) |  | Leuven 488-494
 [152](http://en.villo.be/All-stations/Map-stations/(id)/152) | [1155270044](https://openstreetmap.org/node/1155270044) |  | Daillyplein
+[153](http://en.villo.be/All-stations/Map-stations/(id)/153) | [5038450966](https://openstreetmap.org/node/5038450966) |  | Armand Steurssquare
 [163](http://en.villo.be/All-stations/Map-stations/(id)/163) | [843356612](https://openstreetmap.org/node/843356612) | Chazal | 
 [173](http://en.villo.be/All-stations/Map-stations/(id)/173) | [843356611](https://openstreetmap.org/node/843356611) | Bichon | 
 [176](http://en.villo.be/All-stations/Map-stations/(id)/176) | [875533066](https://openstreetmap.org/node/875533066) | KOLONEL BOURG - RUE COLONEL BOURG/ KOLONEL BOURGSTRAAT 104 | Kolonel Bourg

@@ -691,6 +691,22 @@
   {
    "geometry": {
     "coordinates": [
+     4.37798279939058,
+     50.8542911947934
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 153,
+    "_osm_id": 5038450966,
+    "tag_from": "",
+    "tag_to": "Armand Steurssquare"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      4.39170889938867,
      50.8593635947932
     ],

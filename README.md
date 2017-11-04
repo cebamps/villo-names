@@ -30,6 +30,12 @@ Each file shows the difference in one tag (`name`, `name:fr` or `name:nl`) from 
 
 To ease reviewing, the file for `name` tag changes omits corrections in formatting from `French / Dutch` to `French - Dutch`.
 
+### GeoJSON.io links
+
+ * [`osm-name-diff.geojson`](http://geojson.io/#id=github:cedb12/villo-names/blob/master/osm-name-diff.geojson)
+ * [`osm-name_fr-diff.geojson`](http://geojson.io/#id=github:cedb12/villo-names/blob/master/osm-name_fr-diff.geojson)
+ * [`osm-name_nl-diff.geojson`](http://geojson.io/#id=github:cedb12/villo-names/blob/master/osm-name_nl-diff.geojson)
+
 
 ### Licensing
 The GeoJSON files are derived from OpenStreetMap data (© OpenStreetMap Contributors) and from the JCDecaux API data (see notice for `name_cleanup.csv`).

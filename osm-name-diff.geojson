@@ -1,0 +1,885 @@
+{
+ "features": [
+  {
+   "geometry": {
+    "coordinates": [
+     4.41473549938546,
+     50.8362931947939
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 1,
+    "_osm_id": 3882247889,
+    "tag_from": "Station n\u00b0 1 L\u00e9opold II - Avenue de Tervueren face / Tervurenlaan voor 218",
+    "tag_to": "L\u00e9opold II - Leopold II"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.360612899393,
+     50.8436341947937
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 20,
+    "_osm_id": 316950720,
+    "tag_from": "Palais Royal - Koningstraat Paleis",
+    "tag_to": "Palais Royal - Koninklijk Paleis"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.32199059939837,
+     50.8387287947938
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 27,
+    "_osm_id": 3365570647,
+    "tag_from": "Square Albert I",
+    "tag_to": "Square Albert I - Albert I Square"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.35152659939426,
+     50.8451454947936
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 36,
+    "_osm_id": 3254392564,
+    "tag_from": "Place Saint-Jean / Sint Jansplein",
+    "tag_to": "Place Saint-Jean - Sint-Jansplein"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.3505139993944,
+     50.8341496947939
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 39,
+    "_osm_id": 454863661,
+    "tag_from": "H\u00f4tel des Monnaies / Munthof",
+    "tag_to": "H\u00f4tel des Monnaies - Munthotel"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.37107789939154,
+     50.8418043947937
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 44,
+    "_osm_id": 4198957211,
+    "tag_from": "",
+    "tag_to": "Charlemagne - Karel de Grote"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.36370449939257,
+     50.8494838947935
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 48,
+    "_osm_id": 454866906,
+    "tag_from": "Station n\u00b0 48 Congr\u00e8s - Rue Royale/Koningsstraat 144-146-148 (Bonus station)",
+    "tag_to": "Congr\u00e8s - Congres"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.35116179939431,
+     50.8615121947932
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 49,
+    "_osm_id": 850776444,
+    "tag_from": "Willebroeck / Willebroek",
+    "tag_to": "Willebroek"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.339040599396,
+     50.8608936947932
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 50,
+    "_osm_id": 877226145,
+    "tag_from": "Station n\u00b0 50 RIBAUCOURT - BLD LEOPOLD II / LEOPOLD II-LAAN 121-123",
+    "tag_to": "Ribaucourt"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.37798889939058,
+     50.8438064947937
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 61,
+    "_osm_id": 472683504,
+    "tag_from": "Maelbeel / Maalbeek",
+    "tag_to": "Maelbeek - Maalbeek"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.38452399938967,
+     50.8427033947937
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 62,
+    "_osm_id": 471060124,
+    "tag_from": "Cortenberg / Kortenberg",
+    "tag_to": "Cortenbergh - Kortenberg"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.34444569939525,
+     50.830023294794
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 65,
+    "_osm_id": 750848480,
+    "tag_from": "Parvis de Saint-Gilles / Sint-Gillisvoorplein",
+    "tag_to": "Parvis de Saint-Gilles"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.3792515993904,
+     50.8124114947945
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 72,
+    "_osm_id": 1632534522,
+    "tag_from": "ULB Solbosh",
+    "tag_to": "ULB Solbosch - VUB Solbosch"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.35168609939424,
+     50.8237521947942
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 78,
+    "_osm_id": 506191599,
+    "tag_from": "Duc P\u00e9tiaux",
+    "tag_to": "Ducp\u00e9tiaux"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.37676989939075,
+     50.8147917947945
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 80,
+    "_osm_id": 1632534524,
+    "tag_from": "CERES - AV. F. ROOSEVELT/F. ROOSEVELTLAAN, 14",
+    "tag_to": "C\u00e9r\u00e8s - Ceres"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.3433655993954,
+     50.8704284947929
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 81,
+    "_osm_id": 1286101197,
+    "tag_from": "Pont Bockstael/Brug Bockstael",
+    "tag_to": "Pont Bockstael - Brug Bockstael"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.33014809939724,
+     50.8589531947932
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 84,
+    "_osm_id": 2507629337,
+    "tag_from": "Ste Anne - Sint-Anna",
+    "tag_to": "Sainte-Anne - Sint-Anna"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.35864469939327,
+     50.8637067947931
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 96,
+    "_osm_id": 3757286053,
+    "tag_from": "Hotel President / President Hotel",
+    "tag_to": "H\u00f4tel President - President Hotel"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.37297379939128,
+     50.8384010947938
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 100,
+    "_osm_id": 795724904,
+    "tag_from": "Luxembourg / Luxemburg",
+    "tag_to": "Gare de Luxembourg - Luxemburgstation"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.4316930993831,
+     50.8277024947941
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 111,
+    "_osm_id": 1941409363,
+    "tag_from": "\u00c9tangs Mellaerts Vijvers",
+    "tag_to": "\u00c9tangs Mellaerts - Mellaerts Vijvers"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.37489499939101,
+     50.8199602947943
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 113,
+    "_osm_id": 2302371945,
+    "tag_from": "Abbaye de la Cambre / Abdij ter Kameren",
+    "tag_to": "Abbaye de la Cambre - Abdij Ter Kameren"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.39568949938811,
+     50.8182544947944
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 116,
+    "_osm_id": 861715882,
+    "tag_from": "Fraiteur",
+    "tag_to": "ULB Plaine"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.37381849939116,
+     50.8239801947942
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 121,
+    "_osm_id": 1231570114,
+    "tag_from": "\u00c9tangs d'Ixelles / Vijvers van Elsene",
+    "tag_to": "\u00c9tangs - Vijvers"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.38926579938901,
+     50.8221973947943
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 122,
+    "_osm_id": 861714122,
+    "tag_from": "Gare d'Etterbeek / Station van Etterbeek",
+    "tag_to": "Gare d'Etterbeek"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.43248149938299,
+     50.832306594794
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 128,
+    "_osm_id": 1941409406,
+    "tag_from": "Mus\u00e9e du Tram - Trammuseum",
+    "tag_to": "Mus\u00e9e du Tram"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.42912009938346,
+     50.8194637947944
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 130,
+    "_osm_id": 3887696050,
+    "tag_from": "Rond Point du Souverain",
+    "tag_to": "Rond-point du Souverain"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.31650689939914,
+     50.8625753947932
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 134,
+    "_osm_id": 3889824628,
+    "tag_from": "Station n\u00b0 134 BASTOGNE/BASTENAKEN - PLACE DE BASTOGNE/BASTENAKENPLEIN",
+    "tag_to": "Place de Bastogne - Bastenaken"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.37675219939075,
+     50.8727108947929
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 135,
+    "_osm_id": 1262551857,
+    "tag_from": "Parc Lacroix / Lacroix Park",
+    "tag_to": "Parc Lacroix - Lacroix park"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.3778199993906,
+     50.8652227947931
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 138,
+    "_osm_id": 4388220881,
+    "tag_from": "Villo!",
+    "tag_to": "Houffalize"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.40096199938738,
+     50.8592212947933
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 146,
+    "_osm_id": 1483481247,
+    "tag_from": "Leopold III",
+    "tag_to": "L\u00e9opold III - Leopold III"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.37228979939137,
+     50.8619227947932
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 147,
+    "_osm_id": 1214500793,
+    "tag_from": "\u00c9mile Max Lyc\u00e9e - Lyceum \u00c9mile Max",
+    "tag_to": "\u00c9mile Max lyc\u00e9e - Lyceum \u00c9mile Max"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.39249019938856,
+     50.8534933947934
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 151,
+    "_osm_id": 1494231097,
+    "tag_from": "Louvain / Leuven",
+    "tag_to": "Louvain 488-494 - Leuven 488-494"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.38747989938926,
+     50.8524159947934
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 152,
+    "_osm_id": 1155270044,
+    "tag_from": "Dailly",
+    "tag_to": "Place Dailly - Daillyplein"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.4086968993863,
+     50.8523807947934
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 176,
+    "_osm_id": 875533066,
+    "tag_from": "COLONEL BOURG/KOLONEL BOURG - RUE COLONEL BOURG/ KOLONEL BOURGSTRAAT 104",
+    "tag_to": "Colonel Bourg - Kolonel Bourg"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.32440749939804,
+     50.8571621947933
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 188,
+    "_osm_id": 3999722118,
+    "tag_from": "Osseghem / Ossegem",
+    "tag_to": "Osseghem"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.38909659938903,
+     50.8369021947939
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 189,
+    "_osm_id": 1824770592,
+    "tag_from": "Van Meyel",
+    "tag_to": "Place Van Meyel - Van Meyelplein"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.30546269940067,
+     50.8346585947939
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 206,
+    "_osm_id": 4954797412,
+    "tag_from": "Saint-Guidon - Sint-Guido",
+    "tag_to": "Saint-Guidon - Sint Guido"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.29084629940271,
+     50.8166390947944
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 211,
+    "_osm_id": 4659844885,
+    "tag_from": "M\u00e9tro CERIA - Metro COOVI",
+    "tag_to": "M\u00e9tro CERIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.33340869939678,
+     50.8037735947948
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 242,
+    "_osm_id": 3008738975,
+    "tag_from": "Maison communale d'Uccle - Gemeentehuis Ukkel",
+    "tag_to": "Maison communale d'Uccle - Ukkel Gemeentehuis"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.35325429939402,
+     50.8116815947945
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 243,
+    "_osm_id": 3882230177,
+    "tag_from": "Rondpoint Churchill - Rotonde Churchill",
+    "tag_to": "Rond-point Churchill - Rotonde Churchill"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.37345719939121,
+     50.795762294795
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 248,
+    "_osm_id": 4196908753,
+    "tag_from": "Vivier d'Oie",
+    "tag_to": "Prince de Ligne - Prins de Ligne"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.32333239939819,
+     50.8621566947932
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 258,
+    "_osm_id": 4417690493,
+    "tag_from": "",
+    "tag_to": "Libert\u00e9"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.40312239938708,
+     50.8718876947929
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 263,
+    "_osm_id": 1779098876,
+    "tag_from": "Maison Communale d'Evere / Evere Gemeentehuis",
+    "tag_to": "Maison communale d'Evere - Evere Gemeentehuis"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.40905249938625,
+     50.8774623947927
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 266,
+    "_osm_id": 1783427811,
+    "tag_from": "Gare Bordet Chauss\u00e9e de Haecht Face 1147 - Bordet Station Haachtsesteenweg voor 1147",
+    "tag_to": "Gare Bordet - Bordet Station"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.40321089938707,
+     50.8628300947931
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 267,
+    "_osm_id": 1779098877,
+    "tag_from": "Gen\u00e8ve / Geneve",
+    "tag_to": "Gen\u00e8ve"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.42146489938453,
+     50.8609413947932
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 269,
+    "_osm_id": 1779098873,
+    "tag_from": "Ciceron",
+    "tag_to": "Cic\u00e9ron"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.41416219938554,
+     50.8591484947932
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 270,
+    "_osm_id": 1779098881,
+    "tag_from": "DE PADUWA - AVENUE DES ANCIENS COMBATTANTS / OUD-STRIJDERSLAAN 1",
+    "tag_to": "De Paduwa"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.4266765993838,
+     50.8170308947944
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 312,
+    "_osm_id": 3887696051,
+    "tag_from": "Station n\u00b0 312 CENTRE CULTUREL / CULTUREEL CENTRUM - BD DU SOUVERAIN FACE 282 / VORSTLAAN VOOR 282",
+    "tag_to": "Centre culturel - Cultureel centrum"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.31734079939902,
+     50.8850090947925
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 319,
+    "_osm_id": 3237981117,
+    "tag_from": "Ancienne Barri\u00e8re - Oude Afspanningsplein",
+    "tag_to": "Ancienne Barri\u00e8re"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.44412549938137,
+     50.8541440947934
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 335,
+    "_osm_id": 3905108609,
+    "tag_from": "Station n\u00b0 335 THIRY - BD DE LA WOLUWE DVT 100",
+    "tag_to": "Thiry"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.33796339939615,
+     50.8302693947941
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 344,
+    "_osm_id": 4696397690,
+    "tag_from": "Bethleem - Place Bethleem",
+    "tag_to": "Bethl\u00e9em"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.38400149938974,
+     50.8140069947945
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 351,
+    "_osm_id": 4947668227,
+    "tag_from": "",
+    "tag_to": "ULB"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.40809409938639,
+     50.8156699947945
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 353,
+    "_osm_id": 4171675245,
+    "tag_from": "Beaulieu-Rue Jules Cockx - Beaulieu Jules Cockxstraat",
+    "tag_to": "Beaulieu"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.45510969937984,
+     50.8297108947941
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 356,
+    "_osm_id": 3905108608,
+    "tag_from": "Station n\u00b0 356 CENTRE SPORTIF - AVENUE JULES DU JARDIN FACE AU N\u00b045 (ROND POINT DU TIBET)",
+    "tag_to": "Centre sportif"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.45672829937962,
+     50.8346309947939
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 357,
+    "_osm_id": 3905108607,
+    "tag_from": "Station n\u00b0 357 AVIATION - INTERSECTION AVENUE DE L'AVIATION ET AVENUE ORBAN",
+    "tag_to": "Aviation"
+   },
+   "type": "Feature"
+  }
+ ],
+ "type": "FeatureCollection"
+}

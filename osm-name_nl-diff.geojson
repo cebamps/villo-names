@@ -1,0 +1,1013 @@
+{
+ "features": [
+  {
+   "geometry": {
+    "coordinates": [
+     4.41473549938546,
+     50.8362931947939
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 1,
+    "_osm_id": 3882247889,
+    "tag_from": "",
+    "tag_to": "Leopold II"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.32593269939782,
+     50.8361859947939
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 2,
+    "_osm_id": 1588195000,
+    "tag_from": "Eloy",
+    "tag_to": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.34759939939481,
+     50.8280261947941
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 19,
+    "_osm_id": 710446870,
+    "tag_from": "",
+    "tag_to": "Moricharplein"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.360612899393,
+     50.8436341947937
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 20,
+    "_osm_id": 316950720,
+    "tag_from": "Koningstraat Paleis",
+    "tag_to": "Koninklijk Paleis"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.35519509939375,
+     50.8462946947936
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 23,
+    "_osm_id": 835344858,
+    "tag_from": "Agora",
+    "tag_to": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.32199059939837,
+     50.8387287947938
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 27,
+    "_osm_id": 3365570647,
+    "tag_from": "",
+    "tag_to": "Albert I Square"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.36074009939298,
+     50.8502481947935
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 31,
+    "_osm_id": 454868310,
+    "tag_from": "",
+    "tag_to": "Stripmuseum"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.35152659939426,
+     50.8451454947936
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 36,
+    "_osm_id": 3254392564,
+    "tag_from": "Sint Jansplein",
+    "tag_to": "Sint-Jansplein"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.35305759939405,
+     50.8379102947938
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 37,
+    "_osm_id": 234559687,
+    "tag_from": "Poelaert",
+    "tag_to": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.34732199939485,
+     50.8378131947938
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 38,
+    "_osm_id": 1196935393,
+    "tag_from": "",
+    "tag_to": "Vossenplein"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.3505139993944,
+     50.8341496947939
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 39,
+    "_osm_id": 454863661,
+    "tag_from": "Munthof",
+    "tag_to": "Munthotel"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.37107789939154,
+     50.8418043947937
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 44,
+    "_osm_id": 4198957211,
+    "tag_from": "",
+    "tag_to": "Karel de Grote"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.35744779939344,
+     50.833120094794
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 45,
+    "_osm_id": 1639874968,
+    "tag_from": "",
+    "tag_to": "Stefania"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.35116179939431,
+     50.8615121947932
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 49,
+    "_osm_id": 850776444,
+    "tag_from": "Willebroek",
+    "tag_to": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.37798889939058,
+     50.8438064947937
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 61,
+    "_osm_id": 472683504,
+    "tag_from": "",
+    "tag_to": "Maalbeek"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.34444569939525,
+     50.830023294794
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 65,
+    "_osm_id": 750848480,
+    "tag_from": "Sint-Gillisvoorplein",
+    "tag_to": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.37152459939148,
+     50.8181312947944
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 70,
+    "_osm_id": 1639224188,
+    "tag_from": "",
+    "tag_to": "Dageraad"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.3792515993904,
+     50.8124114947945
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 72,
+    "_osm_id": 1632534522,
+    "tag_from": "",
+    "tag_to": "VUB Solbosch"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.34517909939515,
+     50.8257454947942
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 76,
+    "_osm_id": 710448320,
+    "tag_from": "",
+    "tag_to": "Van Meenenplein"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.37676989939075,
+     50.8147917947945
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 80,
+    "_osm_id": 1632534524,
+    "tag_from": "",
+    "tag_to": "Ceres"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.3433655993954,
+     50.8704284947929
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 81,
+    "_osm_id": 1286101197,
+    "tag_from": "",
+    "tag_to": "Brug Bockstael"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.33131719939708,
+     50.8628600947931
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 83,
+    "_osm_id": 861732420,
+    "tag_from": "Simonis",
+    "tag_to": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.33241679939692,
+     50.8571888947933
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 85,
+    "_osm_id": 1268700398,
+    "tag_from": "",
+    "tag_to": "Zwarte Vijvers"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.3268306993977,
+     50.867276094793
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 90,
+    "_osm_id": 867598169,
+    "tag_from": "Broustin",
+    "tag_to": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.33539229939651,
+     50.867716194793
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 91,
+    "_osm_id": 867598393,
+    "tag_from": "Belgica",
+    "tag_to": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.35864469939327,
+     50.8637067947931
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 96,
+    "_osm_id": 3757286053,
+    "tag_from": "",
+    "tag_to": "President Hotel"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.33857329939607,
+     50.8650209947931
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 99,
+    "_osm_id": 877226146,
+    "tag_from": "Jubelfeest",
+    "tag_to": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.37297379939128,
+     50.8384010947938
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 100,
+    "_osm_id": 795724904,
+    "tag_from": "Luxemburg",
+    "tag_to": "Luxemburgstation"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.37577289939089,
+     50.8357648947939
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 102,
+    "_osm_id": 776773580,
+    "tag_from": "Museum",
+    "tag_to": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.4316930993831,
+     50.8277024947941
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 111,
+    "_osm_id": 1941409363,
+    "tag_from": "",
+    "tag_to": "Mellaerts Vijvers"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.37489499939101,
+     50.8199602947943
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 113,
+    "_osm_id": 2302371945,
+    "tag_from": "",
+    "tag_to": "Abdij Ter Kameren"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.37381849939116,
+     50.8239801947942
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 121,
+    "_osm_id": 1231570114,
+    "tag_from": "Vijvers van Elsene",
+    "tag_to": "Vijvers"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.38926579938901,
+     50.8221973947943
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 122,
+    "_osm_id": 861714122,
+    "tag_from": "Station van Etterbeek",
+    "tag_to": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.36657599939217,
+     50.8175450947944
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 123,
+    "_osm_id": 1260763985,
+    "tag_from": "van Eyck",
+    "tag_to": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.37771469939062,
+     50.832248294794
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 127,
+    "_osm_id": 1258466474,
+    "tag_from": "Graystraat",
+    "tag_to": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.43248149938299,
+     50.832306594794
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 128,
+    "_osm_id": 1941409406,
+    "tag_from": "Trammuseum",
+    "tag_to": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.31650689939914,
+     50.8625753947932
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 134,
+    "_osm_id": 3889824628,
+    "tag_from": "",
+    "tag_to": "Bastenaken"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.37675219939075,
+     50.8727108947929
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 135,
+    "_osm_id": 1262551857,
+    "tag_from": "Lacroix Park",
+    "tag_to": "Lacroix park"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.40758479938646,
+     50.8572111947933
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 143,
+    "_osm_id": 875533042,
+    "tag_from": "LEUVENSE STEENWEG (N\u00b0 770)",
+    "tag_to": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.40096199938738,
+     50.8592212947933
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 146,
+    "_osm_id": 1483481247,
+    "tag_from": "",
+    "tag_to": "Leopold III"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.39249019938856,
+     50.8534933947934
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 151,
+    "_osm_id": 1494231097,
+    "tag_from": "",
+    "tag_to": "Leuven 488-494"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.38747989938926,
+     50.8524159947934
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 152,
+    "_osm_id": 1155270044,
+    "tag_from": "",
+    "tag_to": "Daillyplein"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.39170889938867,
+     50.8593635947932
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 163,
+    "_osm_id": 843356612,
+    "tag_from": "Chazal",
+    "tag_to": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.39443269938829,
+     50.8646210947931
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 173,
+    "_osm_id": 843356611,
+    "tag_from": "Bichon",
+    "tag_to": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.4086968993863,
+     50.8523807947934
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 176,
+    "_osm_id": 875533066,
+    "tag_from": "KOLONEL BOURG - RUE COLONEL BOURG/ KOLONEL BOURGSTRAAT 104",
+    "tag_to": "Kolonel Bourg"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.38928589938901,
+     50.8493250947935
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 177,
+    "_osm_id": 1155252833,
+    "tag_from": "",
+    "tag_to": "Ardense Jagers"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.39047579938884,
+     50.829919794794
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 183,
+    "_osm_id": 1824789396,
+    "tag_from": "",
+    "tag_to": "Jacht"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.4015761993873,
+     50.8358132947939
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 185,
+    "_osm_id": 1394706869,
+    "tag_from": "",
+    "tag_to": "Pater de Deken"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.38909659938903,
+     50.8369021947939
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 189,
+    "_osm_id": 1824770592,
+    "tag_from": "",
+    "tag_to": "Van Meyelplein"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.30546269940067,
+     50.8346585947939
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 206,
+    "_osm_id": 4954797412,
+    "tag_from": "Sint-Guido",
+    "tag_to": "Sint Guido"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.29084629940271,
+     50.8166390947944
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 211,
+    "_osm_id": 4659844885,
+    "tag_from": "Metro COOVI",
+    "tag_to": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.34952479939454,
+     50.8039905947948
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 241,
+    "_osm_id": 1852171463,
+    "tag_from": "",
+    "tag_to": "Beeldhouwwerk"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.33340869939678,
+     50.8037735947948
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 242,
+    "_osm_id": 3008738975,
+    "tag_from": "Gemeentehuis Ukkel",
+    "tag_to": "Ukkel Gemeentehuis"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.37345719939121,
+     50.795762294795
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 248,
+    "_osm_id": 4196908753,
+    "tag_from": "Diesdelle",
+    "tag_to": "Prins de Ligne"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.31430699939944,
+     50.8726048947929
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 253,
+    "_osm_id": 2507633164,
+    "tag_from": "",
+    "tag_to": "Koningin Fabiola"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.40312239938708,
+     50.8718876947929
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 263,
+    "_osm_id": 1779098876,
+    "tag_from": "GEMEENTEHUIS - HOEDEMAEKERSESQUARE 7-8",
+    "tag_to": "Evere Gemeentehuis"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.40905249938625,
+     50.8774623947927
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 266,
+    "_osm_id": 1783427811,
+    "tag_from": "Bordet Station Haachtsesteenweg voor 1147",
+    "tag_to": "Bordet Station"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.41416219938554,
+     50.8591484947932
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 270,
+    "_osm_id": 1779098881,
+    "tag_from": "DE PADUWA - OUD-STRIJDERSLAAN 1",
+    "tag_to": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.30640109940054,
+     50.8549261947934
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 273,
+    "_osm_id": 4908031978,
+    "tag_from": "Kaaien",
+    "tag_to": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.4266765993838,
+     50.8170308947944
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 312,
+    "_osm_id": 3887696051,
+    "tag_from": "",
+    "tag_to": "Cultureel centrum"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.3282998993975,
+     50.8805565947926
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 318,
+    "_osm_id": 3810525803,
+    "tag_from": "",
+    "tag_to": "Kardinaal Mercier"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.31734079939902,
+     50.8850090947925
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 319,
+    "_osm_id": 3237981117,
+    "tag_from": "Oude Afspanningsplein",
+    "tag_to": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.40809409938639,
+     50.8156699947945
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 353,
+    "_osm_id": 4171675245,
+    "tag_from": "Beaulieu Jules Cockxstraat",
+    "tag_to": ""
+   },
+   "type": "Feature"
+  }
+ ],
+ "type": "FeatureCollection"
+}

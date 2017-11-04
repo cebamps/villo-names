@@ -179,16 +179,16 @@
   {
    "geometry": {
     "coordinates": [
-     4.34444569939525,
-     50.830023294794
+     4.42144209938453,
+     50.8346782947939
     ],
     "type": "Point"
    },
    "properties": {
-    "_number": 65,
-    "_osm_id": 750848480,
-    "tag_from": "Parvis de Saint-Gilles / Sint-Gillisvoorplein",
-    "tag_to": "Parvis de Saint-Gilles"
+    "_number": 63,
+    "_osm_id": 1923543723,
+    "tag_from": "Jules C\u00e9sar",
+    "tag_to": "Jules C\u00e9sar - Julius Caesar"
    },
    "type": "Feature"
   },
@@ -291,6 +291,22 @@
   {
    "geometry": {
     "coordinates": [
+     4.33857329939607,
+     50.8650209947931
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 99,
+    "_osm_id": 877226146,
+    "tag_from": "Jubil\u00e9",
+    "tag_to": "Jubil\u00e9 - Jubelfeest"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      4.37297379939128,
      50.8384010947938
     ],
@@ -380,23 +396,7 @@
     "_number": 122,
     "_osm_id": 861714122,
     "tag_from": "Gare d'Etterbeek / Station van Etterbeek",
-    "tag_to": "Gare d'Etterbeek"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     4.43248149938299,
-     50.832306594794
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_number": 128,
-    "_osm_id": 1941409406,
-    "tag_from": "Mus\u00e9e du Tram - Trammuseum",
-    "tag_to": "Mus\u00e9e du Tram"
+    "tag_to": "Gare d'Etterbeek - Etterbeek Station"
    },
    "type": "Feature"
   },
@@ -412,7 +412,39 @@
     "_number": 130,
     "_osm_id": 3887696050,
     "tag_from": "Rond Point du Souverain",
-    "tag_to": "Rond-point du Souverain"
+    "tag_to": "Rond-point du Souverain - Vorstrondpunt"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.43478939938267,
+     50.8133801947945
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 131,
+    "_osm_id": 1941409386,
+    "tag_from": "Jardin Massart",
+    "tag_to": "Jardin Massart - Massarttuin"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.4338913993828,
+     50.8164161947944
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 132,
+    "_osm_id": 2455149880,
+    "tag_from": "Deux Chauss\u00e9es",
+    "tag_to": "Deux Chauss\u00e9es - Tweesteenwegen"
    },
    "type": "Feature"
   },
@@ -547,22 +579,6 @@
   {
    "geometry": {
     "coordinates": [
-     4.32440749939804,
-     50.8571621947933
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_number": 188,
-    "_osm_id": 3999722118,
-    "tag_from": "Osseghem / Ossegem",
-    "tag_to": "Osseghem"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      4.38909659938903,
      50.8369021947939
     ],
@@ -579,6 +595,22 @@
   {
    "geometry": {
     "coordinates": [
+     4.30484479940076,
+     50.8406144947937
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 203,
+    "_osm_id": 4954837448,
+    "tag_from": "D\u00e9mosth\u00e8ne",
+    "tag_to": "D\u00e9mosth\u00e8ne - Demosthenes"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      4.30546269940067,
      50.8346585947939
     ],
@@ -589,22 +621,6 @@
     "_osm_id": 4954797412,
     "tag_from": "Saint-Guidon - Sint-Guido",
     "tag_to": "Saint-Guidon - Sint Guido"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     4.29084629940271,
-     50.8166390947944
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_number": 211,
-    "_osm_id": 4659844885,
-    "tag_from": "M\u00e9tro CERIA - Metro COOVI",
-    "tag_to": "M\u00e9tro CERIA"
    },
    "type": "Feature"
   },
@@ -668,7 +684,7 @@
     "_number": 258,
     "_osm_id": 4417690493,
     "tag_from": "",
-    "tag_to": "Libert\u00e9"
+    "tag_to": "Libert\u00e9 - Vrijheid"
    },
    "type": "Feature"
   },
@@ -732,7 +748,7 @@
     "_number": 269,
     "_osm_id": 1779098873,
     "tag_from": "Ciceron",
-    "tag_to": "Cic\u00e9ron"
+    "tag_to": "Cic\u00e9ron - Cicero"
    },
    "type": "Feature"
   },
@@ -749,6 +765,38 @@
     "_osm_id": 1779098881,
     "tag_from": "DE PADUWA - AVENUE DES ANCIENS COMBATTANTS / OUD-STRIJDERSLAAN 1",
     "tag_to": "De Paduwa"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.30640109940054,
+     50.8549261947934
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 273,
+    "_osm_id": 4908031978,
+    "tag_from": "Tamaris",
+    "tag_to": "Tamaris - Tamarisken"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.39287819938851,
+     50.8078620947946
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 303,
+    "_osm_id": 4565622470,
+    "tag_from": "Vieux Tilleul",
+    "tag_to": "Vieux Tilleul - Oude Linde"
    },
    "type": "Feature"
   },
@@ -780,7 +828,23 @@
     "_number": 319,
     "_osm_id": 3237981117,
     "tag_from": "Ancienne Barri\u00e8re - Oude Afspanningsplein",
-    "tag_to": "Ancienne Barri\u00e8re"
+    "tag_to": "Ancienne Barri\u00e8re - Oude Afspanning"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.41525239938539,
+     50.8552333947934
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 323,
+    "_osm_id": 2924631797,
+    "tag_from": "Car\u00e8ne",
+    "tag_to": "Car\u00e8ne - Carina"
    },
    "type": "Feature"
   },
@@ -812,7 +876,23 @@
     "_number": 344,
     "_osm_id": 4696397690,
     "tag_from": "Bethleem - Place Bethleem",
-    "tag_to": "Bethl\u00e9em"
+    "tag_to": "Bethl\u00e9em - Bethlehem"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.27349169940513,
+     50.8159054947944
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 346,
+    "_osm_id": 4954683460,
+    "tag_from": "Recherche",
+    "tag_to": "Recherche - Research"
    },
    "type": "Feature"
   },
@@ -828,7 +908,7 @@
     "_number": 347,
     "_osm_id": 4954691063,
     "tag_from": "Erasme",
-    "tag_to": "\u00c9rasme"
+    "tag_to": "\u00c9rasme - Erasmus"
    },
    "type": "Feature"
   },
@@ -876,7 +956,7 @@
     "_number": 356,
     "_osm_id": 3905108608,
     "tag_from": "Station n\u00b0 356 CENTRE SPORTIF - AVENUE JULES DU JARDIN FACE AU N\u00b045 (ROND POINT DU TIBET)",
-    "tag_to": "Centre sportif"
+    "tag_to": "Centre sportif - Sportcentrum"
    },
    "type": "Feature"
   },
@@ -892,7 +972,7 @@
     "_number": 357,
     "_osm_id": 3905108607,
     "tag_from": "Station n\u00b0 357 AVIATION - INTERSECTION AVENUE DE L'AVIATION ET AVENUE ORBAN",
-    "tag_to": "Aviation"
+    "tag_to": "Aviation - Luchtvaart"
    },
    "type": "Feature"
   }

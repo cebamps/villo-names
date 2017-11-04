@@ -243,16 +243,16 @@
   {
    "geometry": {
     "coordinates": [
-     4.34444569939525,
-     50.830023294794
+     4.42144209938453,
+     50.8346782947939
     ],
     "type": "Point"
    },
    "properties": {
-    "_number": 65,
-    "_osm_id": 750848480,
-    "tag_from": "Sint-Gillisvoorplein",
-    "tag_to": ""
+    "_number": 63,
+    "_osm_id": 1923543723,
+    "tag_from": "",
+    "tag_to": "Julius Caesar"
    },
    "type": "Feature"
   },
@@ -419,22 +419,6 @@
   {
    "geometry": {
     "coordinates": [
-     4.33857329939607,
-     50.8650209947931
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_number": 99,
-    "_osm_id": 877226146,
-    "tag_from": "Jubelfeest",
-    "tag_to": ""
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      4.37297379939128,
      50.8384010947938
     ],
@@ -524,7 +508,7 @@
     "_number": 122,
     "_osm_id": 861714122,
     "tag_from": "Station van Etterbeek",
-    "tag_to": ""
+    "tag_to": "Etterbeek Station"
    },
    "type": "Feature"
   },
@@ -563,16 +547,48 @@
   {
    "geometry": {
     "coordinates": [
-     4.43248149938299,
-     50.832306594794
+     4.42912009938346,
+     50.8194637947944
     ],
     "type": "Point"
    },
    "properties": {
-    "_number": 128,
-    "_osm_id": 1941409406,
-    "tag_from": "Trammuseum",
-    "tag_to": ""
+    "_number": 130,
+    "_osm_id": 3887696050,
+    "tag_from": "",
+    "tag_to": "Vorstrondpunt"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.43478939938267,
+     50.8133801947945
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 131,
+    "_osm_id": 1941409386,
+    "tag_from": "",
+    "tag_to": "Massarttuin"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.4338913993828,
+     50.8164161947944
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 132,
+    "_osm_id": 2455149880,
+    "tag_from": "",
+    "tag_to": "Tweesteenwegen"
    },
    "type": "Feature"
   },
@@ -771,6 +787,22 @@
   {
    "geometry": {
     "coordinates": [
+     4.32440749939804,
+     50.8571621947933
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 188,
+    "_osm_id": 3999722118,
+    "tag_from": "",
+    "tag_to": "Ossegem"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      4.38909659938903,
      50.8369021947939
     ],
@@ -787,6 +819,22 @@
   {
    "geometry": {
     "coordinates": [
+     4.30484479940076,
+     50.8406144947937
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 203,
+    "_osm_id": 4954837448,
+    "tag_from": "",
+    "tag_to": "Demosthenes"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      4.30546269940067,
      50.8346585947939
     ],
@@ -797,22 +845,6 @@
     "_osm_id": 4954797412,
     "tag_from": "Sint-Guido",
     "tag_to": "Sint Guido"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     4.29084629940271,
-     50.8166390947944
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_number": 211,
-    "_osm_id": 4659844885,
-    "tag_from": "Metro COOVI",
-    "tag_to": ""
    },
    "type": "Feature"
   },
@@ -883,6 +915,22 @@
   {
    "geometry": {
     "coordinates": [
+     4.32333239939819,
+     50.8621566947932
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 258,
+    "_osm_id": 4417690493,
+    "tag_from": "",
+    "tag_to": "Vrijheid"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      4.40312239938708,
      50.8718876947929
     ],
@@ -915,6 +963,22 @@
   {
    "geometry": {
     "coordinates": [
+     4.42146489938453,
+     50.8609413947932
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 269,
+    "_osm_id": 1779098873,
+    "tag_from": "",
+    "tag_to": "Cicero"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      4.41416219938554,
      50.8591484947932
     ],
@@ -940,7 +1004,23 @@
     "_number": 273,
     "_osm_id": 4908031978,
     "tag_from": "Kaaien",
-    "tag_to": ""
+    "tag_to": "Tamarisken"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.39287819938851,
+     50.8078620947946
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 303,
+    "_osm_id": 4565622470,
+    "tag_from": "",
+    "tag_to": "Oude Linde"
    },
    "type": "Feature"
   },
@@ -988,7 +1068,71 @@
     "_number": 319,
     "_osm_id": 3237981117,
     "tag_from": "Oude Afspanningsplein",
-    "tag_to": ""
+    "tag_to": "Oude Afspanning"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.41525239938539,
+     50.8552333947934
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 323,
+    "_osm_id": 2924631797,
+    "tag_from": "",
+    "tag_to": "Carina"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.33796339939615,
+     50.8302693947941
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 344,
+    "_osm_id": 4696397690,
+    "tag_from": "",
+    "tag_to": "Bethlehem"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.27349169940513,
+     50.8159054947944
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 346,
+    "_osm_id": 4954683460,
+    "tag_from": "",
+    "tag_to": "Research"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.26549659940624,
+     50.8149716947945
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 347,
+    "_osm_id": 4954691063,
+    "tag_from": "",
+    "tag_to": "Erasmus"
    },
    "type": "Feature"
   },
@@ -1005,6 +1149,38 @@
     "_osm_id": 4171675245,
     "tag_from": "Beaulieu Jules Cockxstraat",
     "tag_to": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.45510969937984,
+     50.8297108947941
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 356,
+    "_osm_id": 3905108608,
+    "tag_from": "",
+    "tag_to": "Sportcentrum"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.45672829937962,
+     50.8346309947939
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_number": 357,
+    "_osm_id": 3905108607,
+    "tag_from": "",
+    "tag_to": "Luchtvaart"
    },
    "type": "Feature"
   }
